@@ -111,7 +111,7 @@ const scuse = [
     "Il nostro budget permette un solo acquisto: un poster di Michael Jordan per motivare la squadra.",
     "Il giocatore era interessato, ma poi ha visto il nostro bilancio e ha deciso di cambiare sport.",
     "Abbiamo quasi chiuso, poi il GM ha detto 'magari tra un paio di mesi ci ripensiamo'.",
-    "Ci serviva un playmaker, ma alla fine abbiamo preso un nuovo fornitore di Gatorade.",
+    "Ci serviva un playmaker, ma alla fine abbiamo preso un nuovo fornitore di Gatorade."
 ];
 
 function generaScusa() {
