@@ -43,9 +43,3 @@ button {
 button:hover {
     background-color: #a00000;
 }
-
-/* Logo */
-.logo {
-    width: 150px; /* Dimensione logo */
-    margin-bottom: 20px;
-}
