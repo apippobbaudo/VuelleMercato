@@ -12,7 +12,7 @@ const scuse = [
     "Abbiamo quasi chiuso, poi il presidente ha visto il prezzo e ha chiuso il portafoglio.",
     "Il giocatore era pronto a firmare, poi ha letto il nostro record in classifica.",
     "Abbiamo trovato un super talento! Solo che ha 42 anni e gioca ancora a calcetto con gli amici.",
-    "Dicono che stiamo monitorando il mercato… in realtà stiamo solo aggiornando Twitter.",
+    "Dicono che stiamo monitorando il mercato… in realtà stiamo solo aggiornando Instagram.",
     "Ci piace guardare il mercato come si guarda un bel tramonto: senza fare nulla.",
     "Monitoriamo il mercato con la stessa intensità con cui si guarda una pizza cuocere in forno.",
     "Il mercato è come la dieta: partiamo motivati e finiamo con un panino in mano senza sapere come.",
